@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "31646787601",
+    "project_id": "gelameat-113bb",
+    "storage_bucket": "gelameat-113bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31646787601:android:0870a7b2230d82f25d29b0",
+        "android_client_info": {
+          "package_name": "com.wasitgood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "31646787601-qrf8mr8jveca8is1ijiitbujdtf3a1k1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs8OiwD3W2O3MBVj_fEI1_8OcxTf8uy7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "31646787601-qrf8mr8jveca8is1ijiitbujdtf3a1k1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "31646787601-31jmoocrtsj7kl59q4ihmfd41kouq3gp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gelatmeat-devrol"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
